@@ -128,7 +128,7 @@ public class LibreriaApp {
                 /*if (libro.isInCorso()) {
                     info += "In Corso";
                 } else {
-                    info += "Finito";
+                    info += "Finito2";
                 }*/
 
                 listModel.addElement(info); // Aggiungi ciascun elemento alla lista
